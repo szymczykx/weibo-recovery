@@ -1,0 +1,7 @@
+{
+  "name": "微博图片恢复",
+  "identifier": "local.weibo.recovery",
+  "version": "1.2.1",
+  "icon": "assets/app-icon.png",
+  "out": "build"
+}

@@ -1,0 +1,4 @@
+/build/
+/.mygo/
+/agent-memory/
+.DS_Store
